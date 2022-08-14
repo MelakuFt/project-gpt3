@@ -1,6 +1,7 @@
 .gpt3__header {
     display: flex;
     flex-direction: row;
+    
 }
 
 .gpt3__header-content {
@@ -104,8 +105,8 @@ text-align: center;
     align-items: center;
 }
 .gpt__header-image img {
-    width: 100%;
-    height: 100%;
+    width: 200%;
+    height: 200%;
 }
 
 @media screen and (max-width: 1050px) {
